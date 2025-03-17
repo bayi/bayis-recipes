@@ -1,6 +1,8 @@
-DIST=BayisRecipes.zip
+DIST_FABRIC=BayisRecipes-fabric.zip
+DIST_FORGE=BayisRecipes-forge.zip
 
 all:
 	@rm ${DIST} || true
 	@echo " * Creating ${DIST}"
-	@cd src && zip -q -r ../${DIST} .
+	@cd fabric && zip -q -r ../${DIST_FABRIC} .
+	@cd forge && zip -q -r ../${DIST_FORGE} .

@@ -1,0 +1,31 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "none",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "nbt": {},
+      "fluid": "minecraft:lava",
+      "amount": 9100
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:tuff"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "item": "minecraft:tuff"
+    }
+  ]
+}

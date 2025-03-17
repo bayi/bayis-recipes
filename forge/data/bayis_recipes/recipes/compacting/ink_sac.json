@@ -1,0 +1,16 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "item": "minecraft:black_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:ink_sac"
+    }
+  ]
+}
