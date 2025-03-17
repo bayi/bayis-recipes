@@ -2,11 +2,11 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "amount": 20250,
+      "amount": 250,
       "fluid": "minecraft:lava"
     },
     {
-      "amount": 20250,
+      "amount": 250,
       "fluid": "minecraft:water"
     }
   ],

@@ -3,11 +3,11 @@
   "heatRequirement": "none",
   "ingredients": [
     {
-      "amount": 81000,
+      "amount": 1000,
       "fluid": "minecraft:lava"
     },
     {
-      "amount": 81000,
+      "amount": 1000,
       "fluid": "minecraft:water"
     }
   ],
