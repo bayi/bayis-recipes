@@ -3,7 +3,7 @@
   "heatRequirement": "none",
   "ingredients": [
     {
-      "item": "minecraft:cobblestone"
+      "item": "minecraft:diorite"
     },
     {
       "item": "minecraft:flint"
